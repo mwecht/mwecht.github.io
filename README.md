@@ -1,7 +1,7 @@
 # mwecht.github.io
 welcome to my first github page
 
-[ABOUT](ABOUT.md)
+[HOME](README.md) | [ABOUT](ABOUT.md)
 
 ## My public repositories
  
